@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Release\)에 다른 프로젝트(OpenGL-DESKTOP-066E76U.vcxproj, OpenGL-Thinkbook.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  1_미니프로젝트.cpp
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\ObjParser.h(180,13): warning C4477: 'fprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'입니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\ObjParser.h(217,29): warning C4267: 'return': 'size_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\1_미니프로젝트.cpp(163,57): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\1_미니프로젝트.cpp(163,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\1_미니프로젝트.cpp(163,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\1_미니프로젝트.cpp(171,57): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\1_미니프로젝트.cpp(171,42): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\1_미니프로젝트.cpp(171,27): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  247 of 251 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    237 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  OpenGL.vcxproj -> C:\Users\gurwl\OneDrive - 인하대학교\문서\heckzi\4-1\컴퓨터그래픽스설계\실습\OpenGL\x64\Release\OpenGL.exe
